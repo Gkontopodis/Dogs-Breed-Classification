@@ -26,6 +26,8 @@ This section contains baseline results on two tasks:
 
 * Comparison of Accuracy per Class: The accuracy of each class is compared for 15 and 100 training images per class.
 
+![out1](https://github.com/Gkontopodis/Image-classification---Stanford-dogs/blob/main/mean_accuracy.png)
+
 #### Experimental Setting
 All of the experiments use image regions from the bounding box only for both training and testing.
 
@@ -38,3 +40,4 @@ The remaining parameters are set to the following values:
 * Dictionary Size: 256
 * Kernel: histogram intersection kernel
 
+![out2](https://github.com/Gkontopodis/Image-classification---Stanford-dogs/blob/main/bar_graph_small.jpg)
