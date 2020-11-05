@@ -41,3 +41,29 @@ The remaining parameters are set to the following values:
 * Kernel: histogram intersection kernel
 
 ![out2](https://github.com/Gkontopodis/Image-classification---Stanford-dogs/blob/main/bar_graph_small.jpg)
+
+## Packages
+
+The script is composed in Python and it can be executed from the command line. Executing the tool requires the support of Python 3. In addition, the following libraries must be installed locally:
+
+* Keras
+* Split_folders
+* ImageDataGenerator from keras.preprocessing.image
+* Sequential from keras.models
+* Dense, Dropout, Flatten from keras.layers 
+* Conv2D, MaxPooling2D from keras.layers 
+* models from keras 
+* layers from keras 
+* vgg16 from keras.applications.vgg16 
+* optimizers from keras 
+* plot_model from keras.utils
+* load_model from keras.models
+* xception from keras.applications.xception 
+* to_categorical from keras.utils.np_utils 
+* confusion_matrix from sklearn.metrics 
+* load_model from keras.models 
+* matplotlib.pyplot
+* itertools
+* sklearn.metrics
+* numpy
+* pandas
