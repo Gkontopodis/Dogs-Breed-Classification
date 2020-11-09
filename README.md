@@ -2,7 +2,7 @@
 
 The goal of this task is to develop an algorithm to learn to classify images containing objects of the same category into specific sub-categories, i.e. specific dog breeds.
 
-## Dataset:
+## Dataset
 http://vision.stanford.edu/aditya86/ImageNetDogs/
 
 The Stanford Dogs dataset contains images of 120 breeds of dogs from around the world. This dataset has been built using images and annotation from ImageNet for the task of fine-grained image categorization. Contents of this dataset:
