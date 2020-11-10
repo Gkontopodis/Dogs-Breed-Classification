@@ -3,7 +3,7 @@
 The goal of this task is to develop an algorithm to learn to classify images containing objects of the same category into specific sub-categories, i.e. specific dog breeds.
 
 ## Dataset
-http://vision.stanford.edu/aditya86/ImageNetDogs/
+
 
 The Stanford Dogs dataset contains images of 120 breeds of dogs from around the world. This dataset has been built using images and annotation from ImageNet for the task of fine-grained image categorization. Contents of this dataset:
 
@@ -41,6 +41,8 @@ The remaining parameters are set to the following values:
 * Kernel: histogram intersection kernel
 
 ![out2](https://github.com/Gkontopodis/Image-classification---Stanford-dogs/blob/main/bar_graph_small.jpg)
+
+#### Source: http://vision.stanford.edu/aditya86/ImageNetDogs/
 
 ## Packages
 
